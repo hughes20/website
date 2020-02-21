@@ -10,7 +10,7 @@ This website is pretty boring right now. Use pictures, videos, gifs and stories 
 There are a couple constraints however. First, your lab reports must remain accessible at these links:
 
 
-    https:://github.mit.edu/pages/rss2019-[TEAM_NUMBER]/website/labs/[LAB_NUMBER]
+    https:://github.mit.edu/pages/rss2020-[TEAM_NUMBER]/website/labs/[LAB_NUMBER]
 
 
 Also for the sake of the graders, please make sure that the text remains **black on white**.
@@ -33,7 +33,7 @@ In the settings page of the forked repo scroll down to the "Github Pages" sectio
 You should now be able to see the template if you navigate to:
 
 
-    https://github.mit.edu/pages/rss2019-[TEAM_NUMBER]/website/
+    https://github.mit.edu/pages/rss2020-[TEAM_NUMBER]/website/
 
 
 Now in order to modify the template, clone your fork and read on to the next section.
@@ -44,7 +44,7 @@ Now in order to modify the template, clone your fork and read on to the next sec
 We've made this template as straightforward as we could to use.
 You can edit this directly using HTML if you want (recommended to at least to attempt to change html things, but do not break the paths of the website). We also proved a file md_make.py which allows you to write things in markdown and converts into HTML for you to copy and put into your website.
 
-    https://github.mit.edu/pages/rss2019-[TEAM_NUMBER]/website/my/directory
+    https://github.mit.edu/pages/rss2020-[TEAM_NUMBER]/website/my/directory
 
 
 Running the python script requires a small library for converting markdown, so first run:
